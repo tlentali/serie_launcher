@@ -21,4 +21,5 @@ if df["episode"].iloc[0] > 25:
     df["episode"].iloc[0] = 1
     df["saison"].iloc[0] += 1
 
-df.to_csv('saison_episode.csv')
+df = df[["episode", "saison"]]
+df.to_csv('saison_episode.csv', index=False)
