@@ -2,8 +2,8 @@
 
 The serie launcher allows us to continue to watch our serie without bothering ourselves about which episode is the next one.
 
->The chief enemy of creativity is 'good' sense.  
-
+>*"The chief enemy of creativity is 'good' sense."*
+>
 > Pablo Picasso
 
 It is in this state of mind that this program came out.  
