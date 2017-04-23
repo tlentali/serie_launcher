@@ -1,12 +1,17 @@
-# serie_launcher
+# Serie launcher
 
-Permit you not to be bothered by the so annoying : "on en était où deja?" when you get back to your serie.
-Launch the program each time you want to watch an episode.
+The serie launcher allows us to continue to watch our serie without bothering ourselves about which episode is the next one.
 
-![Project visual](https://i.kinja-img.com/gawker-media/image/upload/s--AvXFLgAY--/c_scale,fl_progressive,q_80,w_800/hptu45lgngxq2tb7bet5.jpg)
+>The chief enemy of creativity is 'good' sense.  
+
+> Pablo Picasso
+
+It is in this state of mind that this program came out.  
+
+![Project visual](https://raw.githubusercontent.com/tlentali/serie_launcher/master/picture/tv_lego.png)
 
 
-## Launcher example
+### Launcher example
 
 If you want to watch Friends :  
 `./friends.sh`
